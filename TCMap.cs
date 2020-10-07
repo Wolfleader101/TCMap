@@ -14,7 +14,7 @@ namespace Oxide.Plugins
      * 
      * */
 
-    [Info("TCMap", "TheBandolero", "1.0.1", ResourceId = 0)]
+    [Info("TCMap", "Wolfleader101 / TheBandolero", "1.1.0")]
     [Description("Shows all tool cupboards in the game map, and hovering over the TC mark shows a tooltip with the name of the players authorized in it.")]
     public class TCMap : RustPlugin
     {
