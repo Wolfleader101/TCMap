@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/.idea.TCMap/.idea/contentModel.xml
+.idea/.idea.TCMap/.idea/discord.xml
+.idea/.idea.TCMap/.idea/encodings.xml
+.idea/.idea.TCMap/.idea/indexLayout.xml
+.idea/.idea.TCMap/.idea/modules.xml
+.idea/.idea.TCMap/.idea/projectSettingsUpdater.xml
+.idea/.idea.TCMap/.idea/vcs.xml
+.idea/.idea.TCMap/.idea/workspace.xml
